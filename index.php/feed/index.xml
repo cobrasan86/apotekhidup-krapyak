@@ -12,32 +12,12 @@
 	<atom:link href="https://cobrasan86.github.io/apotekhidup-krapyak/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cobrasan86.github.io/apotekhidup-krapyak</link>
 	<description></description>
-	<lastBuildDate>Thu, 26 Jan 2023 07:03:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Jan 2023 16:44:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://cobrasan86.github.io/apotekhidup-krapyak/index.php/2023/01/26/hello-world/</link>
-					<comments>https://cobrasan86.github.io/apotekhidup-krapyak/index.php/2023/01/26/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[krapyak]]></dc:creator>
-		<pubDate>Thu, 26 Jan 2023 07:03:23 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://cobrasan86.github.io/apotekhidup-krapyak/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cobrasan86.github.io/apotekhidup-krapyak/index.php/2023/01/26/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
